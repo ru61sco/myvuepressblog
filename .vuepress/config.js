@@ -33,8 +33,8 @@ module.exports = {
       // all other options of Vssue are allowed
       owner: 'hugeneuron',
       repo: 'docs',
-      clientId: '35a661b9e57fa08c3a4a',
-      clientSecret: '9a44abe493c34eb939db3e55f414d2a37b03e567',
+      clientId: '50619d3f9ea88cfd4533',
+      clientSecret: 'd259e0765f903fa8fedfc10c09a486e0a900e8e7',
       autoCreateIssue: false,
     },
   },
