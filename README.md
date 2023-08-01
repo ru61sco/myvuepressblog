@@ -2,7 +2,7 @@
 home: true
 # heroImage: /hero.png
 heroText: Rubisco's blog
-tagline: Leon 的小站
+tagline: Leon 的小站已移至halo.rub1sc0.xyz
 actionText: 获取力量 →
 actionLink: /guide/
 features:
